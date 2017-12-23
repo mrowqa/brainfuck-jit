@@ -1,0 +1,6 @@
+[package]
+name = "bf-jit"
+version = "0.1.0"
+authors = ["mrowqa <artur.jamro@gmail.com>"]
+
+[dependencies]
