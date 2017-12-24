@@ -22,3 +22,5 @@ Usage:
 ```sh
 $ cargo run --release examples/num-guess.bf
 ```
+
+![Screenshot](images/screenshot.png)
