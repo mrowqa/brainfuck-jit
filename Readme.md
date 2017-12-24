@@ -5,7 +5,7 @@ After seeing [this](https://www.youtube.com/watch?v=ApOUBBOvZDo) and still
 having my strong willing to write some JIT Compiler in Rust,
 I created this :) .
 
-I didn't wanted to use some assembler nor library like keystone or asmjit.
+I didn't want to use some assembler nor library like keystone or asmjit.
 I wanted to keep this project small and fun. And that's why it generates
 such suboptimal code.
 
